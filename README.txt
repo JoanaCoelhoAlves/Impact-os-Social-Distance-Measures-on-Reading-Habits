@@ -3,7 +3,7 @@ This repository contains 3 main folders:
 - data 
 - docs
 
-The folder code contains 3 documents: scrapper, processing and DEA, R models.
+The folder "code" contains 3 documents: scrapper, processing and DEA, R models.
 "scrapper" contains the Python code developed to webscrape Goodreads.com relevant information for this analysis. The output is the dataset "goodreads_data", which is the input data for the second document "processing and EDA".
 
 NOTE: because I webscrapped a large amount of profiles the goodreads_data is a very heavy file that GITHUB does not support, in case you are interested to run the code on your own or if you feel the dataset is relevant for your research pelase email joana.pires.coelho1@gmail.com so that i can send you the dataset.
